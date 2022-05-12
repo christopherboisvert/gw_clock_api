@@ -4,6 +4,7 @@
     @created 2022-05-11
     @website https://greenwoodmultimedia.com
     @version 1.0.0
+    @copyright GreenWood Multimedia © 2022 - Tous droits réservés.
 """
 
 from http.client import BAD_REQUEST
